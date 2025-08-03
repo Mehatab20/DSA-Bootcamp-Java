@@ -21,7 +21,7 @@
     - [ ] [Scoping in Java](https://youtu.be/vvanI8NRlSI?t=2801)
     - [ ] [Shadowing](https://youtu.be/vvanI8NRlSI?t=3584)
     - [ ] [Variable Length Arguments](https://youtu.be/vvanI8NRlSI?t=4013)
-    - [ ][Overloading](https://youtu.be/vvanI8NRlSI?t=4327)
+    - [ ] [Overloading](https://youtu.be/vvanI8NRlSI?t=4327)
 - [ ] [Arrays](https://youtu.be/n60Dn0UsbEk)
     - [ ] [Introduction](https://youtu.be/n60Dn0UsbEk)
     - [ ] [Memory management](https://youtu.be/n60Dn0UsbEk?t=632)
@@ -31,7 +31,7 @@
         - [ ] [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [ ] [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [ ] [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
-        - [ ][Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
+        - [ ] [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
     - [ ] Sorting
         - [ ] [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [ ] [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
